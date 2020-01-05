@@ -1,0 +1,41 @@
+.navbar-fixed nav{
+    background: #03a9f4;
+}
+
+.slider h3,
+.slider h5{
+    text-shadow: 1px 1px 3px rga(0,0,0,.5);
+}
+
+.parallax-container{
+    height: 30%;
+}
+
+.parallax img{
+    
+    opacity: 0.6 !important;
+}
+
+.slider h3,
+.slider h5,
+.clients h3{
+    text-shadow: 1px 1px 3px rgba(0,0,0.5);
+}
+
+.clients img{
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 3px rgba(0,0,0,.8));
+}
+
+.alian img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+section{
+    padding: 20px 0;
+}
+
+section, footer{
+    padding:20px 0;
+}
