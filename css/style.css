@@ -39,3 +39,10 @@ section{
 section, footer{
     padding:20px 0;
 }
+
+.fa-github,
+.fa-instagram {
+    padding: 5px;
+  color: white;
+  font-size: 20px;
+}
