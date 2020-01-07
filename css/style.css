@@ -41,8 +41,42 @@ section, footer{
 }
 
 .fa-github,
-.fa-instagram {
+.fa-instagram,
+.fa-facebook{
     padding: 5px;
   color: white;
   font-size: 20px;
+}
+
+#brush{
+    font-size:15px;
+}
+
+footer a{
+    color: white;
+}
+
+footer a:hover{
+    color: grey;
+}
+
+.slide-up{
+    text-align: center;
+
+}
+
+.brand-logo{
+    font-family: verdana;
+}
+
+#kategori{
+    font-family: verdana;
+}
+
+#person,#hakim,#location{
+    font-size: 20px;
+    color: #3498db;
+}
+.collection{
+    font-weight: bold;
 }
