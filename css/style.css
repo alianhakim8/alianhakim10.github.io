@@ -1,5 +1,6 @@
 .navbar-fixed nav{
-    background: #03a9f4;
+    /* background: #03a9f4; */
+    background-color: #00838f;
 }
 
 .slider h3,
@@ -13,7 +14,7 @@
 
 .parallax img{
     
-    opacity: 0.6 !important;
+    opacity: 1 !important;
 }
 
 .slider h3,
@@ -79,4 +80,9 @@ footer a:hover{
 }
 .collection{
     font-weight: bold;
+}
+
+.card-panel{
+    padding: 50px !important;
+   
 }
